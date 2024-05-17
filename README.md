@@ -1,7 +1,7 @@
 # IOTproject
-# for run project in dev mode , first run: "nom install" and then "npm run dev"
-# for run project in build mode , first run "npm install" then run : "npm run build" after that run : "npm run start"
 # this project create by reza karma and ali rahmani
+ for run project in dev mode , first run: "npm install" and then "npm run dev"
+ for run project in build mode , first run "npm install" then run : "npm run build" after that run : "npm run start"
 
 
 
